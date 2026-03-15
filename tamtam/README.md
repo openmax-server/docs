@@ -4,8 +4,8 @@
 ## Опкоды
 Опкоды - команды в протоколе. На данный момент известны следующие опкоды:
 - [PING (1)](./opcodes/PING.md)
-- LOG (5)
-- SESSION_INIT (6)
+- [LOG (5)](./opcodes/LOG.md)
+- [SESSION_INIT (6)](./opcodes/SESSION_INIT.md)
 - PROFILE (16)
 - AUTH_REQUEST (17)
 - AUTH_CHECK_SCENARIO (263)
