@@ -7,7 +7,7 @@
 - [LOG (5)](./opcodes/LOG.md)
 - [SESSION_INIT (6)](./opcodes/SESSION_INIT.md)
 - PROFILE (16)
-- AUTH_REQUEST (17)
+- [AUTH_REQUEST (17)](./opcodes/AUTH_REQUEST.md)
 - AUTH_CHECK_SCENARIO (263)
 - AUTH (18)
 - LOGIN (19)
