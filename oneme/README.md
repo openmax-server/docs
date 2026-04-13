@@ -10,7 +10,7 @@
 - AUTH_REQUEST (17)
 - AUTH_CHECK_SCENARIO (263)
 - AUTH (18)
-- LOGIN (19)
+- [LOGIN (19)](./opcodes/LOGIN.md)
 - LOGOUT (20)
 - SYNC (21)
 - CONFIG (22)
