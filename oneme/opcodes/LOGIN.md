@@ -19,7 +19,7 @@
         "names": [
           {
             "name": "Vladimir",
-            "firstName": "V",
+            "firstName": "Vladimir",
             "lastName": "Putin",
             "type": "ONEME"
           }
