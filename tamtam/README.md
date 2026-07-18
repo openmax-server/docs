@@ -9,7 +9,7 @@
 - PROFILE (16)
 - [AUTH_REQUEST (17)](./opcodes/AUTH_REQUEST.md)
 - AUTH_CHECK_SCENARIO (263)
-- AUTH (18)
+- [AUTH (18)](./opcodes/AUTH.md)
 - LOGIN (19)
 - LOGOUT (20)
 - SYNC (21)
