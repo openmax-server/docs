@@ -57,13 +57,13 @@
         "lastDelayedUpdateTime": 0,
         "newMessages": 2,
         "lastEventTime": 1788292141357,
-        "id": 386502760581,
+        "id": 34415,
         "status": "ACTIVE",
         "participants": {
           "3441": 1774477691441,
           "3442": 1784330561562
         },
-        "cid": 3441
+        "cid": 34415
       }
     ]
   }
